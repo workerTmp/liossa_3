@@ -1,7 +1,6 @@
 '-1': 'null'
 '0': 'null'
 '1':
-- rowcurl*curl_fuzzer_ldap
 - rowcurl*curl_fuzzer_tftp
 - rowcurl*curl_fuzzer_https
 - rowcurl*curl_fuzzer_rtsp
@@ -19,6 +18,7 @@
 - rowcurl*curl_fuzzer_rtmp
 - rowcurl*curl_fuzzer_scp
 - rowcurl*curl_fuzzer_file
+- rowcurl*curl_fuzzer_ldap
 '3': 'null'
 '4': 'null'
 '5': 'null'
