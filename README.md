@@ -2,6 +2,7 @@
 [![Fuzzing Status Local](docs/rowcurl/curl_fuzzer_tftp.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowcurl/curl_fuzzer_pop3.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowcurl/curl_fuzzer_scp.svg)](https://github.com/)
+[![Fuzzing Status Local](docs/rowcurl/notFind.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowcurl/curl_fuzzer_dict.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowcurl/curl_fuzzer.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowcurl/curl_fuzzer_https.svg)](https://github.com/)
