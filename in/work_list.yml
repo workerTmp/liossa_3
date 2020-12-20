@@ -3,7 +3,6 @@
 '1': 'null'
 '2': 'null'
 '3':
-- rowcurl*curl_fuzzer
 - rowcurl*curl_fuzzer_rtmp
 - rowcurl*curl_fuzzer_file
 - rowcurl*curl_fuzzer_rtsp
@@ -21,6 +20,7 @@
 '4':
 - rowcurl*curl_fuzzer_gopher
 - rowcurl*curl_fuzzer_pop3
+- rowcurl*curl_fuzzer
 '5': 'null'
 '6':
 - rowcurl
