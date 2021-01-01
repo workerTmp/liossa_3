@@ -13,6 +13,7 @@
 [![Fuzzing Status Local](docs/rowcurl/curl_fuzzer_smb.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowcurl/curl_fuzzer_smtp.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowcurl/curl_fuzzer_ftp.svg)](https://github.com/)
+[![Fuzzing Status Local](docs/rowcurl/llvm-symbolizer.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowcurl/curl_fuzzer_file.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowcurl/curl_fuzzer_sftp.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/rowcurl/curl_fuzzer_pop3.svg)](https://github.com/)

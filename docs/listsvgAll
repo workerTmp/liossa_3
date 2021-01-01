@@ -13,6 +13,7 @@ docs/rowcurl/curl_fuzzer_https.svg
 docs/rowcurl/curl_fuzzer_smb.svg
 docs/rowcurl/curl_fuzzer_smtp.svg
 docs/rowcurl/curl_fuzzer_ftp.svg
+docs/rowcurl/llvm-symbolizer.svg
 docs/rowcurl/curl_fuzzer_file.svg
 docs/rowcurl/curl_fuzzer_sftp.svg
 docs/rowcurl/curl_fuzzer_pop3.svg
