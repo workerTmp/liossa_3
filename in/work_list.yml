@@ -5,8 +5,7 @@
 '1': 'null'
 '2': 'null'
 '3': 'null'
-'4':
-- rowcurl*curl_fuzzer_file
+'4': 'null'
 '5':
 - rowcurl*curl_fuzzer_rtsp
 - rowcurl*curl_fuzzer_ldap
@@ -23,5 +22,6 @@
 - rowcurl*curl_fuzzer_smtp
 - rowcurl*curl_fuzzer_https
 - rowcurl*curl_fuzzer_pop3
+- rowcurl*curl_fuzzer_file
 '6':
 - rowcurl
