@@ -3,7 +3,6 @@
 - rowcurl*curl_fuzzer_http
 '0': 'null'
 '1':
-- rowcurl*curl_fuzzer_sftp
 - rowcurl*curl_fuzzer_gopher
 - rowcurl*curl_fuzzer_smb
 - rowcurl*curl_fuzzer
@@ -20,6 +19,7 @@
 - rowcurl*curl_fuzzer_rtsp
 - rowcurl*curl_fuzzer_ldap
 - rowcurl*curl_fuzzer_dict
+- rowcurl*curl_fuzzer_sftp
 '3': 'null'
 '4': 'null'
 '5': 'null'
