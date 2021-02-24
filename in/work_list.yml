@@ -7,11 +7,11 @@
 - rowcurl*curl_fuzzer_smb
 - rowcurl*curl_fuzzer_smtp
 - rowcurl*curl_fuzzer_gopher
+- rowcurl*curl_fuzzer_dict
 '2': 'null'
 '3': 'null'
 '4': 'null'
 '5':
-- rowcurl*curl_fuzzer_dict
 - rowcurl*curl_fuzzer_ldap
 - rowcurl*curl_fuzzer_rtmp
 - rowcurl*curl_fuzzer_ftp
