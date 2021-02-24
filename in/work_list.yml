@@ -14,11 +14,11 @@
 - rowcurl*curl_fuzzer_http
 - rowcurl*curl_fuzzer_rtsp
 - rowcurl*curl_fuzzer_imap
+- rowcurl*curl_fuzzer_https
 '2': 'null'
 '3': 'null'
 '4': 'null'
 '5':
-- rowcurl*curl_fuzzer_https
 - rowcurl*curl_fuzzer_file
 - rowcurl*curl_fuzzer_scp
 - rowcurl*curl_fuzzer_sftp
