@@ -1,8 +1,8 @@
 '-1':
 - rowcurl*llvm-symbolizer
+- rowcurl*curl_fuzzer_http
 '0': 'null'
 '1':
-- rowcurl*curl_fuzzer_http
 - rowcurl*curl_fuzzer_scp
 - rowcurl*curl_fuzzer_rtsp
 - rowcurl*curl_fuzzer_ftp
