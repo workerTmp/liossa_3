@@ -3,8 +3,7 @@
 '0': 'null'
 '1': 'null'
 '2': 'null'
-'3':
-- rowcurl*curl_fuzzer_pop3
+'3': 'null'
 '4':
 - rowcurl*curl_fuzzer_smtp
 - rowcurl*curl_fuzzer_sftp
@@ -22,6 +21,7 @@
 - rowcurl*curl_fuzzer_https
 - rowcurl*curl_fuzzer_scp
 - rowcurl*curl_fuzzer_dict
+- rowcurl*curl_fuzzer_pop3
 '5': 'null'
 '6':
 - rowcurl
