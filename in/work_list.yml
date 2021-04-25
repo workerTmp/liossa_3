@@ -10,11 +10,11 @@
 - rowcurl*curl_fuzzer_rtmp
 - rowcurl*curl_fuzzer_smb
 - rowcurl*curl_fuzzer_rtsp
+- rowcurl*curl_fuzzer_ldap
 '2': 'null'
 '3': 'null'
 '4': 'null'
 '5':
-- rowcurl*curl_fuzzer_ldap
 - rowcurl*curl_fuzzer_ftp
 - rowcurl*curl_fuzzer_http
 - rowcurl*curl_fuzzer_tftp
