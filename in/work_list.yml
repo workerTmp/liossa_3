@@ -2,7 +2,6 @@
 - rowcurl*llvm-symbolizer
 '0': 'null'
 '1':
-- rowcurl*curl_fuzzer_file
 - rowcurl*curl_fuzzer_gopher
 - rowcurl*curl_fuzzer_rtmp
 - rowcurl*curl_fuzzer_smb
@@ -20,6 +19,7 @@
 - rowcurl*curl_fuzzer_smtp
 - rowcurl*curl_fuzzer_sftp
 - rowcurl*curl_fuzzer_imap
+- rowcurl*curl_fuzzer_file
 '3': 'null'
 '4': 'null'
 '5': 'null'
