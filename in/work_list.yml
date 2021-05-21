@@ -5,7 +5,6 @@
 '2': 'null'
 '3': 'null'
 '4':
-- rowcurl*curl_fuzzer_tftp
 - rowcurl*curl_fuzzer_smb
 - rowcurl*curl_fuzzer_scp
 - rowcurl*curl_fuzzer_rtsp
@@ -23,5 +22,6 @@
 - rowcurl*curl_fuzzer_rtmp
 - rowcurl*curl_fuzzer_sftp
 - rowcurl*curl_fuzzer_ftp
+- rowcurl*curl_fuzzer_tftp
 '6':
 - rowcurl
