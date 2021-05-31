@@ -1,8 +1,7 @@
 '-1':
 - rowcurl*llvm-symbolizer
 '0': 'null'
-'1':
-- rowcurl*curl_fuzzer_imap
+'1': 'null'
 '2':
 - rowcurl*curl_fuzzer_dict
 - rowcurl*curl_fuzzer_file
@@ -20,6 +19,7 @@
 - rowcurl*curl_fuzzer_https
 - rowcurl*curl_fuzzer_smtp
 - rowcurl*curl_fuzzer_gopher
+- rowcurl*curl_fuzzer_imap
 '3': 'null'
 '4': 'null'
 '5': 'null'
