@@ -1,7 +1,6 @@
 '-1': 'null'
 '0': 'null'
 '1':
-- rowcurl*curl_fuzzer_gopher
 - rowcurl*curl_fuzzer_https
 - rowcurl*curl_fuzzer_ldap
 - rowcurl*curl_fuzzer_tftp
@@ -20,6 +19,7 @@
 - rowcurl*curl_fuzzer_smtp
 - rowcurl*curl_fuzzer_rtsp
 - rowcurl*curl_fuzzer_file
+- rowcurl*curl_fuzzer_gopher
 '3': 'null'
 '4': 'null'
 '5': 'null'
