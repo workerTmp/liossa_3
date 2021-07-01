@@ -1,7 +1,7 @@
-'-1': 'null'
+'-1':
+- rowcurl*llvm-symbolizer
 '0': 'null'
 '1':
-- rowcurl*llvm-symbolizer
 - rowcurl*curl_fuzzer_smb
 - rowcurl*curl_fuzzer_tftp
 - rowcurl*curl_fuzzer_scp
