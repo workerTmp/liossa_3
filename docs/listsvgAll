@@ -10,6 +10,7 @@ docs/rowcurl/curl_fuzzer_scp.svg
 docs/rowcurl/curl_fuzzer_imap.svg
 docs/rowcurl/curl_fuzzer_dict.svg
 docs/rowcurl/llvm-symbolizer.svg
+docs/rowcurl/curl_fuzzer_mqtt.svg
 docs/rowcurl/curl_fuzzer_pop3.svg
 docs/rowcurl/curl_fuzzer_http.svg
 docs/rowcurl/curl_fuzzer_rtsp.svg

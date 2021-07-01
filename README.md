@@ -10,6 +10,7 @@
 [![Fuzzing Status Local](https://workerTmp.github.io/liossa_3/rowcurl/curl_fuzzer_imap.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/liossa_3/rowcurl/curl_fuzzer_dict.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/liossa_3/rowcurl/llvm-symbolizer.svg)](https://github.com/)
+[![Fuzzing Status Local](https://workerTmp.github.io/liossa_3/rowcurl/curl_fuzzer_mqtt.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/liossa_3/rowcurl/curl_fuzzer_pop3.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/liossa_3/rowcurl/curl_fuzzer_http.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/liossa_3/rowcurl/curl_fuzzer_rtsp.svg)](https://github.com/)
