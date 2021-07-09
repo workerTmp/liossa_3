@@ -3,7 +3,6 @@
 '0': 'null'
 '1': 'null'
 '2':
-- rowcurl*curl_fuzzer_pop3
 - rowcurl*curl_fuzzer_rtsp
 - rowcurl*curl_fuzzer_sftp
 - rowcurl*curl_fuzzer_imap
@@ -22,6 +21,7 @@
 - rowcurl*curl_fuzzer_tftp
 - rowcurl*curl_fuzzer_scp
 - rowcurl*curl_fuzzer_ldap
+- rowcurl*curl_fuzzer_pop3
 '4': 'null'
 '5': 'null'
 '6':
