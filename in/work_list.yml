@@ -4,7 +4,6 @@
 '1': 'null'
 '2': 'null'
 '3':
-- rowcurl*curl_fuzzer_smb
 - rowcurl*curl_fuzzer_tftp
 - rowcurl*curl_fuzzer_scp
 - rowcurl*curl_fuzzer_ldap
@@ -22,7 +21,8 @@
 - rowcurl*curl_fuzzer_mqtt
 - rowcurl*curl_fuzzer_smtp
 - rowcurl*curl_fuzzer_ftp
-'4': 'null'
+'4':
+- rowcurl*curl_fuzzer_smb
 '5': 'null'
 '6':
 - rowcurl
