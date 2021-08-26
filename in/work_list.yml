@@ -19,10 +19,10 @@
 - rowcurl*curl_fuzzer_smb
 - rowcurl*curl_fuzzer_ftp
 - rowcurl*curl_fuzzer_imap
+- rowcurl*curl_fuzzer_tftp
 '2': 'null'
 '3': 'null'
 '4': 'null'
-'5':
-- rowcurl*curl_fuzzer_tftp
+'5': 'null'
 '6':
 - rowcurl
